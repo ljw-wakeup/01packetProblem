@@ -1,0 +1,3 @@
+﻿  mian.cpp
+E:\课程文件\算法导论\project set\IntervalTree\IntervalTree\IntervalTree.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“I_NodePointlist”的左侧
+  IntervalTree.vcxproj -> E:\课程文件\算法导论\project set\IntervalTree\Debug\IntervalTree.exe
